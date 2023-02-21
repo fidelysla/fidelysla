@@ -4,6 +4,14 @@
 🌱 *I’m currently learning*
 
 📫 *How to reach me:* [ysla2021@gmail.com](mailto:ysla2021@gmail.com)
+
+## Here are some Youtube Pages to learn Python:
+- [MoureDev by Brais Moure](https://www.youtube.com/@mouredev)
+- [Programación Para Todos](https://www.youtube.com/@ProgramacionParaTodosMX)
+
+## Here are some Youtube Pages to learn HTML, CSS, JavaScript:
+- [JonMircha](https://www.youtube.com/@jonmircha)
+
 <!--
 **fidelysla/fidelysla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
