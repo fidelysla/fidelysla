@@ -7,7 +7,7 @@
 
 ## Here are some Youtube Pages to learn Python:
 - [MoureDev by Brais Moure](https://www.youtube.com/@mouredev)
-- [Programación Para Todos](https://www.youtube.com/@ProgramacionParaTodosMX)
+- [Programación Para Todos](https://www.youtube.com/c/ProgramacionParaTodosMX)
 
 ## Here are some Youtube Pages to learn HTML, CSS and JavaScript:
 - [JonMircha](https://www.youtube.com/@jonmircha)
